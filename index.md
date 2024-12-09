@@ -3,6 +3,8 @@
 
 I am a computer engineering major at CSUF and I plan to graduate in 2026.
 
+My GitHub page is https://github.com/kacie10
+
 ## Favorite CPSC 120L Labs
 
 * Lab 7, part 1
